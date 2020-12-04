@@ -15,7 +15,7 @@ Name:       harbour-dictionary
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    An offline dictionary (supporting dict.cc and Heinzelnisse) [fork of Wunderfitz]
-Version:    1.4
+Version:    1.4.1
 Release:    1
 Group:      Qt/Qt
 License:    GPL-2.0-or-later
