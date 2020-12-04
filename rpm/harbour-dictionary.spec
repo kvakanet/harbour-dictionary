@@ -6,6 +6,8 @@
 Name:       harbour-dictionary
 
 # >> macros
+%define __provides_exclude_from ^%{_datadir}/.*$
+%define __requires_exclude ^libquazip.*$
 # << macros
 
 %{!?qtc_qmake:%define qtc_qmake %qmake}
