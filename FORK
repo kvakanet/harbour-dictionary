@@ -1,0 +1,10 @@
+How to update:
+
+    git checkout master
+    git checkout -b dictionary-openrepos
+    git merge auto-version
+    git merge some-refactoring
+    git merge extra-changes
+    ./deep-rename.sh
+    git add .
+    git commit -m "Rename fork"

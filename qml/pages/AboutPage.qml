@@ -74,22 +74,15 @@ Page {
             }
 
             Label {
-                text: qsTr("By Sebastian J. Wolf")
+                wrapMode: Text.Wrap
+                x: Theme.horizontalPageMargin
+                width: parent.width - ( 2 * Theme.horizontalPageMargin )
+                horizontalAlignment: Text.AlignHCenter
+                text: qsTr("Forked by ichthyosaurus") + "\n" + qsTr("Originally by Sebastian J. Wolf")
                 font.pixelSize: Theme.fontSizeSmall
                 anchors {
                     horizontalCenter: parent.horizontalCenter
                 }
-            }
-
-            Text {
-                text: "<a href=\"mailto:contact@werkwolf.eu\">" + qsTr("Send E-Mail") + "</a>"
-                anchors {
-                    horizontalCenter: parent.horizontalCenter
-                }
-                font.pixelSize: Theme.fontSizeSmall
-                linkColor: Theme.highlightColor
-
-                onLinkActivated: Qt.openUrlExternally("mailto:contact@werkwolf.de")
             }
 
             Separator {
@@ -107,7 +100,18 @@ Page {
             }
 
             Text {
-                text: "<a href=\"https://github.com/Wunderfitz/harbour-wunderfitz\">" + qsTr("Sources on GitHub") + "</a>"
+                text: "<a href=\"https://github.com/ichthyosaurus/harbour-wunderfitz/tree/dictionary-openrepos\">" + qsTr("Sources on GitHub") + "</a>"
+                anchors {
+                    horizontalCenter: parent.horizontalCenter
+                }
+                font.pixelSize: Theme.fontSizeSmall
+                linkColor: Theme.highlightColor
+
+                onLinkActivated: Qt.openUrlExternally("https://github.com/ichthyosaurus/harbour-wunderfitz/tree/dictionary-openrepos")
+            }
+
+            Text {
+                text: "<a href=\"https://github.com/Wunderfitz/harbour-wunderfitz\">" + qsTr("Original sources on GitHub") + "</a>"
                 anchors {
                     horizontalCenter: parent.horizontalCenter
                 }

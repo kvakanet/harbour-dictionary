@@ -10,3 +10,11 @@ Name=Wunderfitz
 # Remember to comment out the following line, if you do not want to use
 # a different app name in German locale (de).
 #Name[de]=harbour-wunderfitz
+Name[de]=Wörterbuch
+Name[es]=Diccionario
+Name[it]=Dizionario
+Name[nl]=Woordenboek
+Name[sv]=Ordbok
+Name[pl]=Słownik
+Name[hu]=Szótár
+Name[zh_CN]=词典
