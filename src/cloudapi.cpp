@@ -1,20 +1,20 @@
 /*
     Copyright (C) 2016-19 Sebastian J. Wolf
 
-    This file is part of Wunderfitz.
+    This file is part of Dictionary.
 
-    Wunderfitz is free software: you can redistribute it and/or modify
+    Dictionary is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 2 of the License, or
     (at your option) any later version.
 
-    Wunderfitz is distributed in the hope that it will be useful,
+    Dictionary is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with Wunderfitz. If not, see <http://www.gnu.org/licenses/>.
+    along with Dictionary. If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include "cloudapi.h"
@@ -108,7 +108,7 @@ void CloudApi::handleOcrUploadFinished()
     if (jsonDocument.isObject()) {
         emit ocrUploadSuccessful(reply->objectName(), jsonDocument.object());
     } else {
-        emit ocrUploadError(reply->objectName(), "Wunderfitz couldn't understand Azure's response!");
+        emit ocrUploadError(reply->objectName(), "Dictionary couldn't understand Azure's response!");
     }
 }
 
@@ -134,6 +134,6 @@ void CloudApi::handleTranslateFinished()
     if (jsonDocument.isArray()) {
         emit translateSuccessful(jsonDocument.array());
     } else {
-        emit translateError("Wunderfitz couldn't understand Azure's response!");
+        emit translateError("Dictionary couldn't understand Azure's response!");
     }
 }

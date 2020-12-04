@@ -1,15 +1,15 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=harbour-wunderfitz
-Exec=harbour-wunderfitz
-Name=Wunderfitz
+Icon=harbour-dictionary
+Exec=harbour-dictionary
+Name=Dictionary
 # translation example:
 # your app name in German locale (de)
 #
 # Remember to comment out the following line, if you do not want to use
 # a different app name in German locale (de).
-#Name[de]=harbour-wunderfitz
+#Name[de]=harbour-dictionary
 Name[de]=Wörterbuch
 Name[es]=Diccionario
 Name[it]=Dizionario

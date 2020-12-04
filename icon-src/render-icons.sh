@@ -1,20 +1,20 @@
 #!/bin/bash
 #
-# This file is part of harbour-wunderfitz.
+# This file is part of harbour-dictionary.
 # Copyright (C) 2019-2020  Mirian Margiani
 #
-# harbour-wunderfitz is free software: you can redistribute it and/or modify
+# harbour-dictionary is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
 #
-# harbour-wunderfitz is distributed in the hope that it will be useful,
+# harbour-dictionary is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with harbour-wunderfitz.  If not, see <http://www.gnu.org/licenses/>.
+# along with harbour-dictionary.  If not, see <http://www.gnu.org/licenses/>.
 #
 
 postfix=""  # could be e.g. '-beta'
@@ -48,7 +48,7 @@ render() { # 1: source base name (without .svg), 2: target base name (without .p
 }
 
 echo "rendering app icon..."
-appicons=(harbour-wunderfitz)
+appicons=(harbour-dictionary)
 for i in 86 108 128 172 256; do
     prepare "../icons/${i}x$i"
     for a in "${appicons[@]}"; do
@@ -58,7 +58,7 @@ for i in 86 108 128 172 256; do
 done
 
 echo "rendering images..."
-images=(harbour-wunderfitz@860x860 background@460x736)
+images=(harbour-dictionary@860x860 background@460x736)
 prepare "../images"
 for i in "${images[@]}"; do
     file="${i%@*}"; w="${i#*@}"; w="${w%x*}"; h="${i#*@*x}"

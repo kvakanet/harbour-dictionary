@@ -1,392 +1,392 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en" sourcelanguage="en">
+<TS version="2.1" language="pl" sourcelanguage="en">
 <context>
     <name>AboutPage</name>
     <message>
-        <source>About Wunderfitz</source>
-        <translation>About Wunderfitz</translation>
+        <source>About Dictionary</source>
+        <translation>O Dictionary</translation>
     </message>
     <message>
         <source>By Sebastian J. Wolf</source>
-        <translation>By Sebastian J. Wolf</translation>
+        <translation>stworzony przez Sebastian J. Wolf</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Credits</translation>
+        <translation>Uznanie</translation>
     </message>
     <message>
         <source>Licensed under GNU GPLv2</source>
-        <translation>Licensed under GNU GPLv2</translation>
+        <translation>Na licencji GNU GPLv2</translation>
     </message>
     <message>
         <source>Sources on GitHub</source>
-        <translation>Sources on GitHub</translation>
+        <translation>Źródła na GitHub</translation>
     </message>
     <message>
         <source>Send E-Mail</source>
-        <translation>Send E-Mail</translation>
+        <translation>Wyślij email</translation>
     </message>
     <message>
         <source>Open heinzelnisse.info</source>
-        <translation>Open heinzelnisse.info</translation>
+        <translation>Otwórz heinzelnisse.info</translation>
     </message>
     <message>
         <source>Open QuaZIP home page</source>
-        <translation>Open QuaZIP home page</translation>
+        <translation>Otwórz stronę domową QuaZIP</translation>
     </message>
     <message>
         <source>Open dict.cc home page</source>
-        <translation>Open dict.cc home page</translation>
+        <translation>Otwórz stronę domową dict.cc</translation>
     </message>
     <message>
         <source>This application supports dict.cc dictionary export files. Thanks to Paul Hemetsberger and the dict.cc team for providing the dictionaries!</source>
-        <translation>This application supports dict.cc dictionary export files. Thanks to Paul Hemetsberger and the dict.cc team for providing the dictionaries!</translation>
+        <translation>Ta aplikacja obsługuje pliki eksportu słownika dict.cc. Podziękowania dla Paula Hemetsbergera i zespołu dict.cc za udostępnianie słowników!</translation>
     </message>
     <message>
         <source>This application uses the QuaZIP library, version 0.7.2, to extract ZIP archives. Thanks to Sergey A. Tachenov and the QuaZIP contributors for making it so simple to extract ZIP files with Qt!</source>
-        <translation>This application uses the QuaZIP library, version 0.7.2, to extract ZIP archives. Thanks to Sergey A. Tachenov and the QuaZIP contributors for making it so simple to extract ZIP files with Qt!</translation>
+        <translation>Ta aplikacja używa biblioteki QuaZIP w wersji 0.7.2, aby wyodrębnić archiwa ZIP. Podziękowania dla Sergeya A. Tachevna i współpracowników QuaZIP za to, że tak łatwo wyodrębnić pliki ZIP za pomocą Qt!</translation>
     </message>
     <message>
         <source>A mobile dictionary application for offline use including the Heinzelnisse database and supporting dict.cc export files.</source>
-        <translation>A mobile dictionary application for offline use including the Heinzelnisse database and supporting dict.cc export files.</translation>
+        <translation>Mobilna aplikacja słownika do użytku w trybie offline, w tym baza danych Heinzelnisse i obsługująca pliki eksportu dict.cc.</translation>
     </message>
     <message>
         <source>This project uses the Norwegian-German dictionary from heinzelnisse.info - Thanks to the authors Heiko Klein and Julia Emmerich for making the dictionary available under the conditions of the GNU GPLv2!</source>
-        <translation>This project uses the Norwegian-German dictionary from heinzelnisse.info - Thanks to the authors Heiko Klein and Julia Emmerich for making the dictionary available under the conditions of the GNU GPLv2!</translation>
+        <translation>Ten projekt wykorzystuje norwesko-niemiecki słownik z heinzelnisse.info - Podziękowania dla autorów Heiko Kleina i Julii Emmerich za udostępnienie słownika na warunkach GNU GPLv2!</translation>
     </message>
     <message>
-        <source>Wunderfitz was translated to several languages. Thanks to the contributors for making that happen!</source>
-        <translation>Wunderfitz was translated to several languages. Thanks to the contributors for making that happen!</translation>
+        <source>Dictionary was translated to several languages. Thanks to the contributors for making that happen!</source>
+        <translation>Dictionary został przetłumaczony na kilka języków. Podziękowania dla autorów za to, że tak się stało!</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Dictionary</source>
-        <translation type="unfinished">Dictionary</translation>
+        <translation>Słownik</translation>
     </message>
 </context>
 <context>
     <name>CuriosityView</name>
     <message>
         <source>No camera available</source>
-        <translation type="unfinished">No camera available</translation>
+        <translation>Brak dostępnej kamery</translation>
     </message>
     <message>
         <source>Processing image...</source>
-        <translation type="unfinished">Processing image...</translation>
+        <translation>Przetwarzanie obrazu...</translation>
     </message>
     <message>
         <source>Uploading image, %1% completed...</source>
-        <translation type="unfinished">Uploading image, %1% completed...</translation>
+        <translation>Wgrywanie obrazu, %1% ukończone...</translation>
     </message>
     <message>
         <source>Translating text...</source>
-        <translation type="unfinished">Translating text...</translation>
+        <translation>Tłumaczenie tekstu...</translation>
     </message>
     <message>
         <source>Source Language</source>
-        <translation type="unfinished">Source Language</translation>
+        <translation>Źródło jezyka</translation>
     </message>
     <message>
         <source>Auto-Detect</source>
-        <translation type="unfinished">Auto-Detect</translation>
+        <translation>autodetekcja</translation>
     </message>
     <message>
         <source>Chinese-Simplified</source>
-        <translation type="unfinished">Chinese-Simplified</translation>
+        <translation>chiński-uproszczony</translation>
     </message>
     <message>
         <source>Chinese-Traditional</source>
-        <translation type="unfinished">Chinese-Traditional</translation>
+        <translation>chiński-tradycyjny</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished">Czech</translation>
+        <translation>czeski</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished">Danish</translation>
+        <translation>duński</translation>
     </message>
     <message>
         <source>Dutch</source>
-        <translation type="unfinished">Dutch</translation>
+        <translation>holenderski</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished">English</translation>
+        <translation>angielski</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished">Finnish</translation>
+        <translation>fiński</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished">French</translation>
+        <translation>francuski</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished">German</translation>
+        <translation>niemiecki</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished">Greek</translation>
+        <translation>grecki</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished">Hungarian</translation>
+        <translation>węgierski</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished">Italian</translation>
+        <translation>włoski</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished">Japanese</translation>
+        <translation>japoński</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished">Korean</translation>
+        <translation>koreański</translation>
     </message>
     <message>
         <source>Norwegian</source>
-        <translation type="unfinished">Norwegian</translation>
+        <translation>norweski</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished">Polish</translation>
+        <translation>polski</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished">Portuguese</translation>
+        <translation>portugalski</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished">Russian</translation>
+        <translation>rosyjski</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished">Spanish</translation>
+        <translation>hiszpański</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished">Swedish</translation>
+        <translation>szwedzki</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished">Turkish</translation>
+        <translation>turecki</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished">Arabic</translation>
+        <translation>arabski</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished">Romanian</translation>
+        <translation>rumuński</translation>
     </message>
     <message>
         <source>Serbian-Cyrillic</source>
-        <translation type="unfinished">Serbian-Cyrillic</translation>
+        <translation>serbski-cyrylica</translation>
     </message>
     <message>
         <source>Serbian-Latin</source>
-        <translation type="unfinished">Serbian-Latin</translation>
+        <translation>serbski-łaciński</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished">Slovak</translation>
+        <translation>slowacki</translation>
     </message>
     <message>
         <source>Target Language</source>
-        <translation type="unfinished">Target Language</translation>
+        <translation>Wybrany język</translation>
     </message>
     <message>
         <source>Afrikaans</source>
-        <translation type="unfinished">Afrikaans</translation>
+        <translation>Afrikaans</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished">Bulgarian</translation>
+        <translation>bułgarski</translation>
     </message>
     <message>
         <source>Bangla</source>
-        <translation type="unfinished">Bangla</translation>
+        <translation>Bangla</translation>
     </message>
     <message>
         <source>Bosnian</source>
-        <translation type="unfinished">Bosnian</translation>
+        <translation>bośniacki</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished">Catalan</translation>
+        <translation>kataloński</translation>
     </message>
     <message>
         <source>Welsh</source>
-        <translation type="unfinished">Welsh</translation>
+        <translation>walijski</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished">Estonian</translation>
+        <translation>estoński</translation>
     </message>
     <message>
         <source>Persian</source>
-        <translation type="unfinished">Persian</translation>
+        <translation>perski</translation>
     </message>
     <message>
         <source>Filipino</source>
-        <translation type="unfinished">Filipino</translation>
+        <translation>filipiński</translation>
     </message>
     <message>
         <source>Fijian</source>
-        <translation type="unfinished">Fijian</translation>
+        <translation>fidżi</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished">Hebrew</translation>
+        <translation>hebrajski</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished">Hindi</translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished">Croatian</translation>
+        <translation>chorwacki</translation>
     </message>
     <message>
         <source>Haitian Creole</source>
-        <translation type="unfinished">Haitian Creole</translation>
+        <translation>Haitian Creole</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished">Indonesian</translation>
+        <translation>indonezyjski</translation>
     </message>
     <message>
         <source>Icelandic</source>
-        <translation type="unfinished">Icelandic</translation>
+        <translation>Icelandic</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished">Lithuanian</translation>
+        <translation>litewski</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished">Latvian</translation>
+        <translation>łotewski</translation>
     </message>
     <message>
         <source>Malagasy</source>
-        <translation type="unfinished">Malagasy</translation>
+        <translation>malgaski</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished">Malay</translation>
+        <translation>malajski</translation>
     </message>
     <message>
         <source>Maltese</source>
-        <translation type="unfinished">Maltese</translation>
+        <translation>maltański</translation>
     </message>
     <message>
         <source>Hmong Daw</source>
-        <translation type="unfinished">Hmong Daw</translation>
+        <translation>Hmong Daw</translation>
     </message>
     <message>
         <source>Querétaro Otomi</source>
-        <translation type="unfinished">Querétaro Otomi</translation>
+        <translation>Querétaro Otomi</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished">Slovenian</translation>
+        <translation>słoweński</translation>
     </message>
     <message>
         <source>Samoan</source>
-        <translation type="unfinished">Samoan</translation>
+        <translation>Samoan</translation>
     </message>
     <message>
         <source>Kiswahili</source>
-        <translation type="unfinished">Kiswahili</translation>
+        <translation>Kiswahili</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished">Tamil</translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished">Thai</translation>
+        <translation>Thai</translation>
     </message>
     <message>
         <source>Klingon</source>
-        <translation type="unfinished">Klingon</translation>
+        <translation>klingoński</translation>
     </message>
     <message>
         <source>Tongan</source>
-        <translation type="unfinished">Tongan</translation>
+        <translation>Tongan</translation>
     </message>
     <message>
         <source>Tahitian</source>
-        <translation type="unfinished">Tahitian</translation>
+        <translation>Tahitian</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished">Ukrainian</translation>
+        <translation>ukraiński</translation>
     </message>
     <message>
         <source>Urdu</source>
-        <translation type="unfinished">Urdu</translation>
+        <translation>urdu</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished">Vietnamese</translation>
+        <translation>wietnamski</translation>
     </message>
     <message>
         <source>Yucatec Maya</source>
-        <translation type="unfinished">Yucatec Maya</translation>
+        <translation>Yucatec Maya</translation>
     </message>
     <message>
         <source>Cantonese-Traditional</source>
-        <translation type="unfinished">Cantonese-Traditional</translation>
+        <translation>kantoński-tradycyjny</translation>
     </message>
     <message>
         <source>Cloud and Beta Warning</source>
-        <translation type="unfinished">Cloud and Beta Warning</translation>
+        <translation>Ostrzeżenie o wersji beta i chmurze</translation>
     </message>
     <message>
         <source>The Curiosity feature - taking a picture and automatically translating all recognized text on it - uses other people&apos;s computers (aka &quot;Cloud&quot;) to work. So, your picture is uploaded to another server, analyzed and the information is sent back to this app. So, be cautious if you take pictures of private or confidential data! The Cloud provider is Microsoft Azure. (You see the irony of having Microsoft services running on Sailfish OS ;) ?) By using this service you accept</source>
-        <translation type="unfinished">The Curiosity feature - taking a picture and automatically translating all recognized text on it - uses other people&apos;s computers (aka &quot;Cloud&quot;) to work. So, your picture is uploaded to another server, analyzed and the information is sent back to this app. So, be cautious if you take pictures of private or confidential data! The Cloud provider is Microsoft Azure. (You see the irony of having Microsoft services running on Sailfish OS ;) ?) By using this service you accept</translation>
+        <translation>Funkcja Ciekawość - zrobienie zdjęcia i automatyczne przetłumaczenie wszystkich rozpoznanych tekstów - wykorzystuje do pracy komputery innych osób (inaczej &quot;Chmura&quot;). Twoje zdjęcie zostanie przesłane na inny serwer, przeanalizowane, a informacje zostaną odesłane do tej aplikacji. Zachowaj ostrożność, jeśli robisz zdjęcia prywatnych lub poufnych danych! Dostawca chmury to Microsoft Azure. (Widzisz ironię posiadania usług Microsoft uruchomionych na Sailfish OS;)?) Korzystając z tej usługi, akceptujesz</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://azure.microsoft.com/support/legal/&quot;&gt;The Microsoft Azure terms of service and privacy statement&lt;/a&gt;</source>
-        <translation type="unfinished">&lt;a href=&quot;https://azure.microsoft.com/support/legal/&quot;&gt;The Microsoft Azure terms of service and privacy statement&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://azure.microsoft.com/support/legal/&quot;&gt;The Microsoft Azure warunki usługi i prywatności&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Moreover, the Curiosity feature is beta! This means that there is no guarantee that it works as you wish or that it will continue working forever in this or a future version of Wunderfitz. It may cease to work without any prior warning...</source>
-        <translation type="unfinished"></translation>
+        <source>Moreover, the Curiosity feature is beta! This means that there is no guarantee that it works as you wish or that it will continue working forever in this or a future version of Dictionary. It may cease to work without any prior warning...</source>
+        <translation>Co więcej, funkcja Ciekawość jest w wersji beta! Oznacza to, że nie ma gwarancji, że będzie działała tak, jak chcesz lub że będzie działała wiecznie w tej lub przyszłej wersji Dictionary. Może przestać działać bez uprzedniego ostrzeżenia ...</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished">Accept</translation>
+        <translation>Akceptuj</translation>
     </message>
     <message>
         <source>Azure API Keys not set</source>
-        <translation type="unfinished"></translation>
+        <translation>Klucze Azure API nie są ustawione</translation>
     </message>
     <message>
         <source>The Curiosity feature - taking a picture and automatically translating all recognized text on it - needs Microsoft Azure API keys to work. Please obtain API keys for the &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/&quot;&gt;Computer Vision&lt;/a&gt; and the &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/translator-text-api/&quot;&gt;Translator Text&lt;/a&gt; API, enter them on the settings page and have fun!</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcja Ciekawość - zrobienie zdjęcia i automatyczne przetłumaczenie znajdującego się na nim tekstu - wymaga do działania kluczy Microsoft Azure API. Uzyskaj klucze API dla &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/&quot;&gt;Computer Vision&lt;/a&gt; and the &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/translator-text-api/&quot;&gt;Translator Text&lt;/a&gt; API, wprowadź je na stronie ustawień i baw się dobrze!</translation>
     </message>
     <message>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz ustawienia</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeładuj</translation>
     </message>
 </context>
 <context>
     <name>DictionariesPage</name>
     <message>
         <source>Dictionaries</source>
-        <translation>Dictionaries</translation>
+        <translation>Słowniki</translation>
     </message>
     <message>
         <source></source>
@@ -394,43 +394,43 @@
     </message>
     <message>
         <source>Download dict.cc dictionaries</source>
-        <translation>Download dict.cc dictionaries</translation>
+        <translation>Pobierz słowniki dict.cc</translation>
     </message>
     <message>
         <source>Import dict.cc ZIP archives</source>
-        <translation>Import dict.cc ZIP archives</translation>
+        <translation>Importuj archiwa ZIP dict.cc</translation>
     </message>
     <message>
         <source>Dict.cc Import</source>
-        <translation>Dict.cc Import</translation>
+        <translation>Importuj Dict.cc</translation>
     </message>
     <message>
-        <source>Dict.cc does not allow other applications such as Wunderfitz to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Wunderfitz you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use DE-EN, you don&apos;t need EN-DE as Wunderfitz always searches in both languages.</source>
-        <translation>Dict.cc does not allow other applications such as Wunderfitz to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Wunderfitz you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use for example DE-EN, you don&apos;t need EN-DE as Wunderfitz always searches in both languages.</translation>
+        <source>Dict.cc does not allow other applications such as Dictionary to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Dictionary you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use DE-EN, you don&apos;t need EN-DE as Dictionary always searches in both languages.</source>
+        <translation>Dict.cc nie zezwala na wysyłanie słowników przez inne aplikacje, takie jak Dictionary. Dlatego musisz je pobrać sam z dict.cc. Użyj linku Pobierz, postępuj zgodnie z instrukcjami i zaimportuj pliki tutaj później. Pobrane pliki ZIP dict.cc muszą zostać umieszczone w folderze Pobrane. W razie wątpliwości użyj aplikacji do wysyłania e-maili i przeglądarek SailfishOS, aby automatycznie zapisywać pobrane pliki. Po imporcie w Dictionary możesz usunąć archiwa ZIP. Pamiętaj, że musisz pobrać tylko jedną kombinację dwóch języków. Na przykład, jeśli używasz na przykład DE-EN, nie potrzebujesz EN-DE, ponieważ Dictionary zawsze wyszukuje w obu językach.</translation>
     </message>
     <message>
         <source>Dictionary</source>
-        <translation>Dictionary</translation>
+        <translation>Słownik</translation>
     </message>
     <message>
         <source>Choose the active dictionary here</source>
-        <translation>Choose the active dictionary here</translation>
+        <translation>Wybierz aktywny słownik tutaj</translation>
     </message>
     <message>
         <source>Delete selected dictionary</source>
-        <translation>Delete selected dictionary</translation>
+        <translation>Usuń zaznaczony słownik</translation>
     </message>
     <message>
         <source>Dictionary %1 successfully imported</source>
-        <translation>Dictionary %1 successfully imported</translation>
+        <translation>Słownik %1 został zaimportowany</translation>
     </message>
     <message>
         <source>Deleting dictionary %1</source>
-        <translation>Deleting dictionary %1</translation>
+        <translation>Usuwanie słownika %1</translation>
     </message>
     <message>
         <source>Dictionary %1 imported</source>
-        <translation>Dictionary %1 imported</translation>
+        <translation>Słownik %1 zaimportowany</translation>
     </message>
     <message>
         <source>This built-in dictionary cannot be deleted.</source>
@@ -441,57 +441,57 @@
     <name>DictionariesView</name>
     <message>
         <source>Pull down the menu to import and change your dictionaries</source>
-        <translation type="unfinished">Pull down the menu to import and change your dictionaries</translation>
+        <translation>Przeciągnij w dół aby zaimportować i zmienić swoje słowniki</translation>
     </message>
     <message>
         <source>Searching...</source>
-        <translation type="unfinished">Searching...</translation>
+        <translation>Wyszukiwanie...</translation>
     </message>
     <message>
         <source>No results found</source>
-        <translation type="unfinished">No results found</translation>
+        <translation>Brak wyników</translation>
     </message>
     <message>
         <source>Active Dictionary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktywny słownik:</translation>
     </message>
     <message>
         <source>Search in dictionary...</source>
-        <translation type="unfinished">Search in dictionary...</translation>
+        <translation>Szukaj w słowniku...</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Copy to clipboard</translation>
+        <translation>Kopiuj do schowka</translation>
     </message>
     <message>
         <source>Search for &apos;%1&apos;</source>
-        <translation type="unfinished">Search for &apos;%1&apos;</translation>
+        <translation>Szukaj &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>LoadingIndicator</name>
     <message>
         <source>Loading...</source>
-        <translation>Loading...</translation>
+        <translation>Ładowanie...</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Cloud API</source>
-        <translation type="unfinished"></translation>
+        <translation>Cloud API</translation>
     </message>
     <message>
         <source>Azure Computer Vision API Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Klucz Azure Computer Vision API</translation>
     </message>
     <message>
         <source>Azure Translator Text API Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Klucz Azure Translator Text API</translation>
     </message>
     <message>
         <source>Enable cloud features</source>
@@ -514,49 +514,49 @@
     <name>TextPage</name>
     <message>
         <source>Copy translation to clipboard</source>
-        <translation>Copy translation to clipboard</translation>
+        <translation>Kopiuj tłumaczenie do schowka</translation>
     </message>
     <message>
         <source>Copy original to clipboard</source>
-        <translation>Copy original to clipboard</translation>
+        <translation>Kopiuj oryginał do schowka</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation>Result</translation>
+        <translation>Wynik</translation>
     </message>
     <message>
         <source>Original</source>
-        <translation>Original</translation>
+        <translation>Oryginał</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>Translation</translation>
+        <translation>Tłumaczenie</translation>
     </message>
 </context>
 <context>
     <name>TitlePage</name>
     <message>
-        <source>About Wunderfitz</source>
-        <translation>About Wunderfitz</translation>
+        <source>About Dictionary</source>
+        <translation>O Dictionary</translation>
     </message>
     <message>
         <source>Dictionaries</source>
-        <translation>Dictionaries</translation>
+        <translation>Słowniki</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia</translation>
     </message>
 </context>
 <context>
-    <name>harbour-wunderfitz</name>
+    <name>harbour-dictionary</name>
     <message>
         <source>Dictionaries</source>
-        <translation type="unfinished">Dictionaries</translation>
+        <translation>Słowniki</translation>
     </message>
     <message>
         <source>Curiosity</source>
-        <translation type="unfinished">Curiosity</translation>
+        <translation>Ciekawość</translation>
     </message>
 </context>
 </TS>

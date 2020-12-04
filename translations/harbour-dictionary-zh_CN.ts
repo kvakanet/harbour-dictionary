@@ -4,8 +4,8 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <source>About Wunderfitz</source>
-        <translation>关于 Wunderfitz</translation>
+        <source>About Dictionary</source>
+        <translation>关于 Dictionary</translation>
     </message>
     <message>
         <source>By Sebastian J. Wolf</source>
@@ -57,8 +57,8 @@
         <translation>该项目使用来自 heinzelnisse.info 的挪威语-德语词典-感谢作者 Heiko Klein 和 Julia Emmeric 使它在 GNU GPLv2 条款下可用！</translation>
     </message>
     <message>
-        <source>Wunderfitz was translated to several languages. Thanks to the contributors for making that happen!</source>
-        <translation>Wunderfitz 已被翻译为多种语言。在此由衷感谢各位翻译者！</translation>
+        <source>Dictionary was translated to several languages. Thanks to the contributors for making that happen!</source>
+        <translation>Dictionary 已被翻译为多种语言。在此由衷感谢各位翻译者！</translation>
     </message>
 </context>
 <context>
@@ -360,8 +360,8 @@
         <translation>&lt;a href=&quot;https://azure.microsoft.com/support/legal/&quot;&gt; Microsoft Azure 使用条款及隐私政策声明 &lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Moreover, the Curiosity feature is beta! This means that there is no guarantee that it works as you wish or that it will continue working forever in this or a future version of Wunderfitz. It may cease to work without any prior warning...</source>
-        <translation>智能识图功能尚处于测试阶段！我无法保证它取得符合你预期的效果以及承诺在今后的 Wunderfitz 版本中进一步完善此功能。此功能可能会在今后的开发中随时被移除，而不会提前告知你。</translation>
+        <source>Moreover, the Curiosity feature is beta! This means that there is no guarantee that it works as you wish or that it will continue working forever in this or a future version of Dictionary. It may cease to work without any prior warning...</source>
+        <translation>智能识图功能尚处于测试阶段！我无法保证它取得符合你预期的效果以及承诺在今后的 Dictionary 版本中进一步完善此功能。此功能可能会在今后的开发中随时被移除，而不会提前告知你。</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -408,8 +408,8 @@
         <translation>导入 Dict.cc</translation>
     </message>
     <message>
-        <source>Dict.cc does not allow other applications such as Wunderfitz to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Wunderfitz you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use DE-EN, you don&apos;t need EN-DE as Wunderfitz always searches in both languages.</source>
-        <translation>Dict.cc 不允许其它软件（例如 Wunderfitz）传输它们的词典。因此你必须自己从 dict.cc 下载词典。使用下载链接、遵从指导然后在此导入文件。下载的 dict.cc ZIP 文件必须放置于&quot;Download&quot;文件夹之内。如果你不知如何操作，请使用旗鱼系统电子邮件及浏览器软件以自动保存到&quot;Download&quot;文件夹。导入到 Wunderfitz 之后你可以删除 ZIP 文档。请注意:你只需下载两种语言的一种组合。例如，如果你使用 DE-EN ，无需再次下载 EN-DE 。Wunderfitz 会自动在两种语言之间进行搜索。</translation>
+        <source>Dict.cc does not allow other applications such as Dictionary to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Dictionary you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use DE-EN, you don&apos;t need EN-DE as Dictionary always searches in both languages.</source>
+        <translation>Dict.cc 不允许其它软件（例如 Dictionary）传输它们的词典。因此你必须自己从 dict.cc 下载词典。使用下载链接、遵从指导然后在此导入文件。下载的 dict.cc ZIP 文件必须放置于&quot;Download&quot;文件夹之内。如果你不知如何操作，请使用旗鱼系统电子邮件及浏览器软件以自动保存到&quot;Download&quot;文件夹。导入到 Dictionary 之后你可以删除 ZIP 文档。请注意:你只需下载两种语言的一种组合。例如，如果你使用 DE-EN ，无需再次下载 EN-DE 。Dictionary 会自动在两种语言之间进行搜索。</translation>
     </message>
     <message>
         <source>Dictionary</source>
@@ -539,8 +539,8 @@
 <context>
     <name>TitlePage</name>
     <message>
-        <source>About Wunderfitz</source>
-        <translation>关于 Wunderfitz</translation>
+        <source>About Dictionary</source>
+        <translation>关于 Dictionary</translation>
     </message>
     <message>
         <source>Dictionaries</source>
@@ -552,7 +552,7 @@
     </message>
 </context>
 <context>
-    <name>harbour-wunderfitz</name>
+    <name>harbour-dictionary</name>
     <message>
         <source>Dictionaries</source>
         <translation>词典</translation>

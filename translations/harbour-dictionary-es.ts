@@ -1,213 +1,213 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pl" sourcelanguage="en">
+<TS version="2.1" language="es_ES">
 <context>
     <name>AboutPage</name>
     <message>
-        <source>About Wunderfitz</source>
-        <translation>O Wunderfitz</translation>
+        <source>About Dictionary</source>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <source>By Sebastian J. Wolf</source>
-        <translation>stworzony przez Sebastian J. Wolf</translation>
+        <translation>Por Sebastian J. Wolf</translation>
     </message>
     <message>
         <source>Credits</source>
-        <translation>Uznanie</translation>
+        <translation>Créditos</translation>
     </message>
     <message>
         <source>Licensed under GNU GPLv2</source>
-        <translation>Na licencji GNU GPLv2</translation>
+        <translation>Licencia GPLv2</translation>
     </message>
     <message>
         <source>Sources on GitHub</source>
-        <translation>Źródła na GitHub</translation>
+        <translation>Código fuente</translation>
     </message>
     <message>
         <source>Send E-Mail</source>
-        <translation>Wyślij email</translation>
+        <translation>Enviar Correo-E</translation>
     </message>
     <message>
         <source>Open heinzelnisse.info</source>
-        <translation>Otwórz heinzelnisse.info</translation>
+        <translation>heinzelnisse.info</translation>
     </message>
     <message>
         <source>Open QuaZIP home page</source>
-        <translation>Otwórz stronę domową QuaZIP</translation>
+        <translation>quaZIP</translation>
     </message>
     <message>
         <source>Open dict.cc home page</source>
-        <translation>Otwórz stronę domową dict.cc</translation>
+        <translation>dict.cc</translation>
     </message>
     <message>
         <source>This application supports dict.cc dictionary export files. Thanks to Paul Hemetsberger and the dict.cc team for providing the dictionaries!</source>
-        <translation>Ta aplikacja obsługuje pliki eksportu słownika dict.cc. Podziękowania dla Paula Hemetsbergera i zespołu dict.cc za udostępnianie słowników!</translation>
+        <translation>Esta aplicación soporta archivos de exportación del diccionario dict.cc. Gracias Paul Hemetsberger al equipo dict.cc por dar los diccionarios!</translation>
     </message>
     <message>
         <source>This application uses the QuaZIP library, version 0.7.2, to extract ZIP archives. Thanks to Sergey A. Tachenov and the QuaZIP contributors for making it so simple to extract ZIP files with Qt!</source>
-        <translation>Ta aplikacja używa biblioteki QuaZIP w wersji 0.7.2, aby wyodrębnić archiwa ZIP. Podziękowania dla Sergeya A. Tachevna i współpracowników QuaZIP za to, że tak łatwo wyodrębnić pliki ZIP za pomocą Qt!</translation>
+        <translation>Esta aplicación utiliza biblioteca QuaZIP, versión 0.7.2, para extraer archivos ZIP. Gracias a Sergey A. Tachenov y los contribuyentes de QuaZIP por hacer sencillo extraer archivos ZIP con Qt!</translation>
     </message>
     <message>
         <source>A mobile dictionary application for offline use including the Heinzelnisse database and supporting dict.cc export files.</source>
-        <translation>Mobilna aplikacja słownika do użytku w trybie offline, w tym baza danych Heinzelnisse i obsługująca pliki eksportu dict.cc.</translation>
+        <translation>Una aplicación de diccionario móvil para uso sin línea con base de datos Heinzelnisse y archivos de exportación de dict.cc.</translation>
     </message>
     <message>
         <source>This project uses the Norwegian-German dictionary from heinzelnisse.info - Thanks to the authors Heiko Klein and Julia Emmerich for making the dictionary available under the conditions of the GNU GPLv2!</source>
-        <translation>Ten projekt wykorzystuje norwesko-niemiecki słownik z heinzelnisse.info - Podziękowania dla autorów Heiko Kleina i Julii Emmerich za udostępnienie słownika na warunkach GNU GPLv2!</translation>
+        <translation>Este proyecto utiliza el diccionario noruego-alemán de heinzelnisse.info. ¡Gracias a los autores Heiko Klein y Julia Emmerich por hacer que el diccionario esté disponible bajo las condiciones de GNU GPLv2!</translation>
     </message>
     <message>
-        <source>Wunderfitz was translated to several languages. Thanks to the contributors for making that happen!</source>
-        <translation>Wunderfitz został przetłumaczony na kilka języków. Podziękowania dla autorów za to, że tak się stało!</translation>
+        <source>Dictionary was translated to several languages. Thanks to the contributors for making that happen!</source>
+        <translation>Dictionary está traducido a varios lenguajes. Gracias a los contribuyentes por hacer esto realidad!</translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>Dictionary</source>
-        <translation>Słownik</translation>
+        <translation>Diccionario</translation>
     </message>
 </context>
 <context>
     <name>CuriosityView</name>
     <message>
         <source>No camera available</source>
-        <translation>Brak dostępnej kamery</translation>
+        <translation>No hay cámara disponible</translation>
     </message>
     <message>
         <source>Processing image...</source>
-        <translation>Przetwarzanie obrazu...</translation>
+        <translation>Procesando imagen...</translation>
     </message>
     <message>
         <source>Uploading image, %1% completed...</source>
-        <translation>Wgrywanie obrazu, %1% ukończone...</translation>
+        <translation>Subiendo imagen, %1% completado</translation>
     </message>
     <message>
         <source>Translating text...</source>
-        <translation>Tłumaczenie tekstu...</translation>
+        <translation>Traduciendo texto...</translation>
     </message>
     <message>
         <source>Source Language</source>
-        <translation>Źródło jezyka</translation>
+        <translation>Lenguaje fuente</translation>
     </message>
     <message>
         <source>Auto-Detect</source>
-        <translation>autodetekcja</translation>
+        <translation>Autodetectar</translation>
     </message>
     <message>
         <source>Chinese-Simplified</source>
-        <translation>chiński-uproszczony</translation>
+        <translation>Chino simplicado</translation>
     </message>
     <message>
         <source>Chinese-Traditional</source>
-        <translation>chiński-tradycyjny</translation>
+        <translation>Chino tradicional</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation>czeski</translation>
+        <translation>Checo</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation>duński</translation>
+        <translation>Danés</translation>
     </message>
     <message>
         <source>Dutch</source>
-        <translation>holenderski</translation>
+        <translation>Holandés</translation>
     </message>
     <message>
         <source>English</source>
-        <translation>angielski</translation>
+        <translation>Inglés</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation>fiński</translation>
+        <translation>Finlandés</translation>
     </message>
     <message>
         <source>French</source>
-        <translation>francuski</translation>
+        <translation>Francés</translation>
     </message>
     <message>
         <source>German</source>
-        <translation>niemiecki</translation>
+        <translation>Alemán</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation>grecki</translation>
+        <translation>Griego</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation>węgierski</translation>
+        <translation>Húngaro</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation>włoski</translation>
+        <translation>Italiano</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation>japoński</translation>
+        <translation>Japonés</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation>koreański</translation>
+        <translation>Coreano</translation>
     </message>
     <message>
         <source>Norwegian</source>
-        <translation>norweski</translation>
+        <translation>Noruego</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>polski</translation>
+        <translation>Polaco</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation>portugalski</translation>
+        <translation>Portugués</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>rosyjski</translation>
+        <translation>Ruso</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation>hiszpański</translation>
+        <translation>Español</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation>szwedzki</translation>
+        <translation>Sueco</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation>turecki</translation>
+        <translation>Turco</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation>arabski</translation>
+        <translation>Arábica</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation>rumuński</translation>
+        <translation>Rumano</translation>
     </message>
     <message>
         <source>Serbian-Cyrillic</source>
-        <translation>serbski-cyrylica</translation>
+        <translation>Serbio cirílico</translation>
     </message>
     <message>
         <source>Serbian-Latin</source>
-        <translation>serbski-łaciński</translation>
+        <translation>Serbio latino</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation>slowacki</translation>
+        <translation>Eslovaco</translation>
     </message>
     <message>
         <source>Target Language</source>
-        <translation>Wybrany język</translation>
+        <translation>Lenguaje objetivo</translation>
     </message>
     <message>
         <source>Afrikaans</source>
-        <translation>Afrikaans</translation>
+        <translation>Africano</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation>bułgarski</translation>
+        <translation>Búlgaro</translation>
     </message>
     <message>
         <source>Bangla</source>
@@ -215,35 +215,35 @@
     </message>
     <message>
         <source>Bosnian</source>
-        <translation>bośniacki</translation>
+        <translation>Bosnia</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation>kataloński</translation>
+        <translation>Catalán</translation>
     </message>
     <message>
         <source>Welsh</source>
-        <translation>walijski</translation>
+        <translation>Galés</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation>estoński</translation>
+        <translation>estonia</translation>
     </message>
     <message>
         <source>Persian</source>
-        <translation>perski</translation>
+        <translation>Persa</translation>
     </message>
     <message>
         <source>Filipino</source>
-        <translation>filipiński</translation>
+        <translation>Filipino</translation>
     </message>
     <message>
         <source>Fijian</source>
-        <translation>fidżi</translation>
+        <translation>Fijiano</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>hebrajski</translation>
+        <translation>Hebreo</translation>
     </message>
     <message>
         <source>Hindi</source>
@@ -251,39 +251,39 @@
     </message>
     <message>
         <source>Croatian</source>
-        <translation>chorwacki</translation>
+        <translation>Croata</translation>
     </message>
     <message>
         <source>Haitian Creole</source>
-        <translation>Haitian Creole</translation>
+        <translation>Criollo haitiano</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation>indonezyjski</translation>
+        <translation>Indonesio</translation>
     </message>
     <message>
         <source>Icelandic</source>
-        <translation>Icelandic</translation>
+        <translation>Islandés</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation>litewski</translation>
+        <translation>Lituano</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation>łotewski</translation>
+        <translation>Letón</translation>
     </message>
     <message>
         <source>Malagasy</source>
-        <translation>malgaski</translation>
+        <translation>Madagascarí</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation>malajski</translation>
+        <translation>Malayo</translation>
     </message>
     <message>
         <source>Maltese</source>
-        <translation>maltański</translation>
+        <translation>Maltés</translation>
     </message>
     <message>
         <source>Hmong Daw</source>
@@ -295,11 +295,11 @@
     </message>
     <message>
         <source>Slovenian</source>
-        <translation>słoweński</translation>
+        <translation>Esloveno</translation>
     </message>
     <message>
         <source>Samoan</source>
-        <translation>Samoan</translation>
+        <translation>Samoano</translation>
     </message>
     <message>
         <source>Kiswahili</source>
@@ -311,82 +311,82 @@
     </message>
     <message>
         <source>Thai</source>
-        <translation>Thai</translation>
+        <translation>Tailandés</translation>
     </message>
     <message>
         <source>Klingon</source>
-        <translation>klingoński</translation>
+        <translation>Klingon</translation>
     </message>
     <message>
         <source>Tongan</source>
-        <translation>Tongan</translation>
+        <translation>Tongano</translation>
     </message>
     <message>
         <source>Tahitian</source>
-        <translation>Tahitian</translation>
+        <translation>Tahitiano</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation>ukraiński</translation>
+        <translation>Ucranio</translation>
     </message>
     <message>
         <source>Urdu</source>
-        <translation>urdu</translation>
+        <translation>Urdu</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation>wietnamski</translation>
+        <translation>Vietnamita</translation>
     </message>
     <message>
         <source>Yucatec Maya</source>
-        <translation>Yucatec Maya</translation>
+        <translation>Maya Yucateco</translation>
     </message>
     <message>
         <source>Cantonese-Traditional</source>
-        <translation>kantoński-tradycyjny</translation>
+        <translation>Cantonés tradicional</translation>
     </message>
     <message>
         <source>Cloud and Beta Warning</source>
-        <translation>Ostrzeżenie o wersji beta i chmurze</translation>
+        <translation>Advertencia de nube y beta</translation>
     </message>
     <message>
         <source>The Curiosity feature - taking a picture and automatically translating all recognized text on it - uses other people&apos;s computers (aka &quot;Cloud&quot;) to work. So, your picture is uploaded to another server, analyzed and the information is sent back to this app. So, be cautious if you take pictures of private or confidential data! The Cloud provider is Microsoft Azure. (You see the irony of having Microsoft services running on Sailfish OS ;) ?) By using this service you accept</source>
-        <translation>Funkcja Ciekawość - zrobienie zdjęcia i automatyczne przetłumaczenie wszystkich rozpoznanych tekstów - wykorzystuje do pracy komputery innych osób (inaczej &quot;Chmura&quot;). Twoje zdjęcie zostanie przesłane na inny serwer, przeanalizowane, a informacje zostaną odesłane do tej aplikacji. Zachowaj ostrożność, jeśli robisz zdjęcia prywatnych lub poufnych danych! Dostawca chmury to Microsoft Azure. (Widzisz ironię posiadania usług Microsoft uruchomionych na Sailfish OS;)?) Korzystając z tej usługi, akceptujesz</translation>
+        <translation>La característica Curiosidad, toma una fotografía y traduce automáticamente todo el texto reconocido en ella, utiliza computadoras de terceros (aka &quot;Nube&quot;) para que funcione. Por lo tanto, su imagen se carga en otro servidor, se analiza la información y se envía de vuelta a esta aplicación. Por lo tanto, tener cuidado si toma imágenes de datos privados o confidenciales. El proveedor de la nube es Microsoft Azure. (Usted ve la ironía de tener los servicios de Microsoft ejecutándose en el sistema operativo Sailfish;)?) Al usar este servicio, acepta</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;https://azure.microsoft.com/support/legal/&quot;&gt;The Microsoft Azure terms of service and privacy statement&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://azure.microsoft.com/support/legal/&quot;&gt;The Microsoft Azure warunki usługi i prywatności&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://azure.microsoft.com/support/legal/&quot;&gt;Los términos de servicio y la declaración de privacidad de Microsoft Azure&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Moreover, the Curiosity feature is beta! This means that there is no guarantee that it works as you wish or that it will continue working forever in this or a future version of Wunderfitz. It may cease to work without any prior warning...</source>
-        <translation>Co więcej, funkcja Ciekawość jest w wersji beta! Oznacza to, że nie ma gwarancji, że będzie działała tak, jak chcesz lub że będzie działała wiecznie w tej lub przyszłej wersji Wunderfitz. Może przestać działać bez uprzedniego ostrzeżenia ...</translation>
+        <source>Moreover, the Curiosity feature is beta! This means that there is no guarantee that it works as you wish or that it will continue working forever in this or a future version of Dictionary. It may cease to work without any prior warning...</source>
+        <translation>¡Además, la función Curiosidad es beta! Esto significa que no hay garantía de que funcione como lo desee o que seguirá funcionando para siempre en esta o en una versión futura de Dictionary. Puede dejar de funcionar sin previo aviso ...</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Akceptuj</translation>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Azure API Keys not set</source>
-        <translation>Klucze Azure API nie są ustawione</translation>
+        <translation>AzureAPIKeys no establecida</translation>
     </message>
     <message>
         <source>The Curiosity feature - taking a picture and automatically translating all recognized text on it - needs Microsoft Azure API keys to work. Please obtain API keys for the &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/&quot;&gt;Computer Vision&lt;/a&gt; and the &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/translator-text-api/&quot;&gt;Translator Text&lt;/a&gt; API, enter them on the settings page and have fun!</source>
-        <translation>Funkcja Ciekawość - zrobienie zdjęcia i automatyczne przetłumaczenie znajdującego się na nim tekstu - wymaga do działania kluczy Microsoft Azure API. Uzyskaj klucze API dla &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/&quot;&gt;Computer Vision&lt;/a&gt; and the &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/translator-text-api/&quot;&gt;Translator Text&lt;/a&gt; API, wprowadź je na stronie ustawień i baw się dobrze!</translation>
+        <translation>La función Curiosidad, toma una foto y traduce automáticamente todo el texto reconocido en ella, necesita claves de la API de MicrosoftAzure para funcionar. Obtenga claves de API para &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/&quot;&gt;Computer Vision&lt;/a&gt; and the &lt;a href=&quot;https://azure.microsoft.com/en-gb/services/cognitive-services/translator-text-api/&quot;&gt;Translator Text&lt;/a&gt; API, ingréselos en la página de configuración y ¡diviértanse!</translation>
     </message>
     <message>
         <source>Open Settings</source>
-        <translation>Otwórz ustawienia</translation>
+        <translation>Configuración abierta</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Przeładuj</translation>
+        <translation>Recargar</translation>
     </message>
 </context>
 <context>
     <name>DictionariesPage</name>
     <message>
         <source>Dictionaries</source>
-        <translation>Słowniki</translation>
+        <translation>Diccionarios</translation>
     </message>
     <message>
         <source></source>
@@ -394,43 +394,43 @@
     </message>
     <message>
         <source>Download dict.cc dictionaries</source>
-        <translation>Pobierz słowniki dict.cc</translation>
+        <translation>Descargar dict.cc diccionarios</translation>
     </message>
     <message>
         <source>Import dict.cc ZIP archives</source>
-        <translation>Importuj archiwa ZIP dict.cc</translation>
+        <translation>Importar dict.cc ZIP ficheros</translation>
     </message>
     <message>
         <source>Dict.cc Import</source>
-        <translation>Importuj Dict.cc</translation>
+        <translation>Dict.cc importación</translation>
     </message>
     <message>
-        <source>Dict.cc does not allow other applications such as Wunderfitz to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Wunderfitz you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use DE-EN, you don&apos;t need EN-DE as Wunderfitz always searches in both languages.</source>
-        <translation>Dict.cc nie zezwala na wysyłanie słowników przez inne aplikacje, takie jak Wunderfitz. Dlatego musisz je pobrać sam z dict.cc. Użyj linku Pobierz, postępuj zgodnie z instrukcjami i zaimportuj pliki tutaj później. Pobrane pliki ZIP dict.cc muszą zostać umieszczone w folderze Pobrane. W razie wątpliwości użyj aplikacji do wysyłania e-maili i przeglądarek SailfishOS, aby automatycznie zapisywać pobrane pliki. Po imporcie w Wunderfitz możesz usunąć archiwa ZIP. Pamiętaj, że musisz pobrać tylko jedną kombinację dwóch języków. Na przykład, jeśli używasz na przykład DE-EN, nie potrzebujesz EN-DE, ponieważ Wunderfitz zawsze wyszukuje w obu językach.</translation>
+        <source>Dict.cc does not allow other applications such as Dictionary to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Dictionary you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use DE-EN, you don&apos;t need EN-DE as Dictionary always searches in both languages.</source>
+        <translation>Dict.cc no permite enviar diccionarios ah aplicaciones como Dictionary. Debe descargarlos de dict.cc usted mismo. Utilizar el enlace Descargar, despues seguir las instrucciones eh importar los archivos aquí. Los archivos ZIP descargados de dict.cc deben colocarse en la carpeta Descargas. Por dudas, utilizar aps de SailfishOS C-Electronico y Navegador para auto almacenar en descargas. Después de la importación en Dictionary puedes eliminar los archivos ZIP, tener en cuenta que sólo necesita descargar una combinación de dos idiomas. Por ejemplo, si utiliza DE-EN, no necesita EN-DE ya que Dictionary siempre busca en ambos idiomas</translation>
     </message>
     <message>
         <source>Dictionary</source>
-        <translation>Słownik</translation>
+        <translation>Diccionario</translation>
     </message>
     <message>
         <source>Choose the active dictionary here</source>
-        <translation>Wybierz aktywny słownik tutaj</translation>
+        <translation>Elegir diccionarios aqui</translation>
     </message>
     <message>
         <source>Delete selected dictionary</source>
-        <translation>Usuń zaznaczony słownik</translation>
+        <translation>Borrar diccionario elegido</translation>
     </message>
     <message>
         <source>Dictionary %1 successfully imported</source>
-        <translation>Słownik %1 został zaimportowany</translation>
+        <translation>Diccionario %1 importado con éxito</translation>
     </message>
     <message>
         <source>Deleting dictionary %1</source>
-        <translation>Usuwanie słownika %1</translation>
+        <translation>Borrando diccionario %1</translation>
     </message>
     <message>
         <source>Dictionary %1 imported</source>
-        <translation>Słownik %1 zaimportowany</translation>
+        <translation>Diccionario %1 importado</translation>
     </message>
     <message>
         <source>This built-in dictionary cannot be deleted.</source>
@@ -441,57 +441,57 @@
     <name>DictionariesView</name>
     <message>
         <source>Pull down the menu to import and change your dictionaries</source>
-        <translation>Przeciągnij w dół aby zaimportować i zmienić swoje słowniki</translation>
+        <translation>Halar hacia abajo para opciones eh importar y cambiar los diccionarios</translation>
     </message>
     <message>
         <source>Searching...</source>
-        <translation>Wyszukiwanie...</translation>
+        <translation>Buscando...</translation>
     </message>
     <message>
         <source>No results found</source>
-        <translation>Brak wyników</translation>
+        <translation>Sin resultados</translation>
     </message>
     <message>
         <source>Active Dictionary:</source>
-        <translation>Aktywny słownik:</translation>
+        <translation>Diccionario activo:</translation>
     </message>
     <message>
         <source>Search in dictionary...</source>
-        <translation>Szukaj w słowniku...</translation>
+        <translation>Introducir texto...</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Kopiuj do schowka</translation>
+        <translation>Copiar al portapapeles</translation>
     </message>
     <message>
         <source>Search for &apos;%1&apos;</source>
-        <translation>Szukaj &apos;%1&apos;</translation>
+        <translation>Buscar para &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>LoadingIndicator</name>
     <message>
         <source>Loading...</source>
-        <translation>Ładowanie...</translation>
+        <translation>Cargando...</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation>Ustawienia</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <source>Cloud API</source>
-        <translation>Cloud API</translation>
+        <translation>Nube</translation>
     </message>
     <message>
         <source>Azure Computer Vision API Key</source>
-        <translation>Klucz Azure Computer Vision API</translation>
+        <translation>Llave del API AzureComputerVision</translation>
     </message>
     <message>
         <source>Azure Translator Text API Key</source>
-        <translation>Klucz Azure Translator Text API</translation>
+        <translation>Llave del API AzureTranslatorText</translation>
     </message>
     <message>
         <source>Enable cloud features</source>
@@ -514,49 +514,49 @@
     <name>TextPage</name>
     <message>
         <source>Copy translation to clipboard</source>
-        <translation>Kopiuj tłumaczenie do schowka</translation>
+        <translation>Copiar traducción</translation>
     </message>
     <message>
         <source>Copy original to clipboard</source>
-        <translation>Kopiuj oryginał do schowka</translation>
+        <translation>Copiar original</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation>Wynik</translation>
+        <translation>Resultados</translation>
     </message>
     <message>
         <source>Original</source>
-        <translation>Oryginał</translation>
+        <translation>Original</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>Tłumaczenie</translation>
+        <translation>Traducción</translation>
     </message>
 </context>
 <context>
     <name>TitlePage</name>
     <message>
-        <source>About Wunderfitz</source>
-        <translation>O Wunderfitz</translation>
+        <source>About Dictionary</source>
+        <translation>Acerca de</translation>
     </message>
     <message>
         <source>Dictionaries</source>
-        <translation>Słowniki</translation>
+        <translation>Diccionarios</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Ustawienia</translation>
+        <translation>Ajustes</translation>
     </message>
 </context>
 <context>
-    <name>harbour-wunderfitz</name>
+    <name>harbour-dictionary</name>
     <message>
         <source>Dictionaries</source>
-        <translation>Słowniki</translation>
+        <translation>Diccionario</translation>
     </message>
     <message>
         <source>Curiosity</source>
-        <translation>Ciekawość</translation>
+        <translation>Curiosidad</translation>
     </message>
 </context>
 </TS>

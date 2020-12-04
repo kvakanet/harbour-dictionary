@@ -4,8 +4,8 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <source>About Wunderfitz</source>
-        <translation>Om Wunderfitz</translation>
+        <source>About Dictionary</source>
+        <translation>Om Dictionary</translation>
     </message>
     <message>
         <source>By Sebastian J. Wolf</source>
@@ -56,8 +56,8 @@
         <translation>Detta projekt använder den Norsk-Tyska ordboken från heinzelnisse.info - Tack till författarna Heiko Klein och Julia Emmerich för att de gjort ordboken tillgänglig under villkoren i GNU GPLv2!</translation>
     </message>
     <message>
-        <source>Wunderfitz was translated to several languages. Thanks to the contributors for making that happen!</source>
-        <translation>Wunderfitz har översatts till flera språk. Tack till översättarna för att så skett!</translation>
+        <source>Dictionary was translated to several languages. Thanks to the contributors for making that happen!</source>
+        <translation>Dictionary har översatts till flera språk. Tack till översättarna för att så skett!</translation>
     </message>
 </context>
 <context>
@@ -358,8 +358,8 @@
         <translation>&lt;a href=&quot;https://azure.microsoft.com/support/legal/&quot;&gt;Microsoft Azure tjänstvillkor och sekretesspolicy&lt;/a&gt;</translation>
     </message>
     <message>
-        <source>Moreover, the Curiosity feature is beta! This means that there is no guarantee that it works as you wish or that it will continue working forever in this or a future version of Wunderfitz. It may cease to work without any prior warning...</source>
-        <translation>Dessutom är kuriositetsfunktionen beta! Detta innebär att det inte finns någon garanti för att det fungerar som du vill eller att det kommer att fortsätta fungera för evigt, i denna eller framtida versioner av Wunderfitz. Det kan upphöra att fungera utan förvarning...</translation>
+        <source>Moreover, the Curiosity feature is beta! This means that there is no guarantee that it works as you wish or that it will continue working forever in this or a future version of Dictionary. It may cease to work without any prior warning...</source>
+        <translation>Dessutom är kuriositetsfunktionen beta! Detta innebär att det inte finns någon garanti för att det fungerar som du vill eller att det kommer att fortsätta fungera för evigt, i denna eller framtida versioner av Dictionary. Det kan upphöra att fungera utan förvarning...</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -413,8 +413,8 @@
         <translation>Välj aktiv ordbok här</translation>
     </message>
     <message>
-        <source>Dict.cc does not allow other applications such as Wunderfitz to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Wunderfitz you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use DE-EN, you don&apos;t need EN-DE as Wunderfitz always searches in both languages.</source>
-        <translation>Dict.cc tillåter inte andra program såsom Wunderfitz, att leverera deras ordböcker. Därför måste du själv ladda ner dem från dict.cc. Använd nerladdningslänken, följ instruktionerna och importera därefter filerna här. De nerladdade ZIP-filerna måste placeras i mappen &quot;Nedladdningar&quot;. Om du är osäker kan du använda SailfishOS e-postprogram och webbläsare för att automatiskt lagra nerladdningarna där. Efter import i Wunderfitz kan du radera ZIP-arkiven. Notera att du bara behöver ladda ner en av två språkkombinationer. Om du t.ex. vill använda SV-EN, behöver du inte EN-SV, eftersom Wunderfitz alltid söker i bägge språken.</translation>
+        <source>Dict.cc does not allow other applications such as Dictionary to ship their dictionaries. Therefore, you must download them from dict.cc yourself. Use the Download link, follow the instructions and import the files here afterwards. The downloaded dict.cc ZIP files must be placed in the Downloads folder. If in doubt, use the SailfishOS E-Mail and Browser apps to store the downloads there automatically. After the import in Dictionary you can delete the ZIP archives. Please note that you only need to download one combination of two languages. For example if you use DE-EN, you don&apos;t need EN-DE as Dictionary always searches in both languages.</source>
+        <translation>Dict.cc tillåter inte andra program såsom Dictionary, att leverera deras ordböcker. Därför måste du själv ladda ner dem från dict.cc. Använd nerladdningslänken, följ instruktionerna och importera därefter filerna här. De nerladdade ZIP-filerna måste placeras i mappen &quot;Nedladdningar&quot;. Om du är osäker kan du använda SailfishOS e-postprogram och webbläsare för att automatiskt lagra nerladdningarna där. Efter import i Dictionary kan du radera ZIP-arkiven. Notera att du bara behöver ladda ner en av två språkkombinationer. Om du t.ex. vill använda SV-EN, behöver du inte EN-SV, eftersom Dictionary alltid söker i bägge språken.</translation>
     </message>
     <message>
         <source>Delete selected dictionary</source>
@@ -536,8 +536,8 @@
 <context>
     <name>TitlePage</name>
     <message>
-        <source>About Wunderfitz</source>
-        <translation>Om Wunderfitz</translation>
+        <source>About Dictionary</source>
+        <translation>Om Dictionary</translation>
     </message>
     <message>
         <source>Dictionaries</source>
@@ -549,7 +549,7 @@
     </message>
 </context>
 <context>
-    <name>harbour-wunderfitz</name>
+    <name>harbour-dictionary</name>
     <message>
         <source>Dictionaries</source>
         <translation>Ordböcker</translation>
