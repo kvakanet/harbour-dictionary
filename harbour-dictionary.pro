@@ -31,6 +31,7 @@ CONFIG += sailfishapp_i18n
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
 TRANSLATIONS += translations/harbour-dictionary-de.ts \
+     translations/harbour-dictionary-fr.ts \
      translations/harbour-dictionary-it.ts \
      translations/harbour-dictionary-nl.ts \
      translations/harbour-dictionary-sv.ts \

@@ -5,6 +5,7 @@ A mobile dictionary application for SailfishOS including the Heinzelnisse dictio
 Licensed under GNU GPLv2+
 
 ## Translations
+- French: [Quentí](https://github.com/Quenty31)
 - Chinese: [dashinfantry](https://github.com/dashinfantry)
 - Dutch: d9h02f
 - Italian: Alessandro Pra'
