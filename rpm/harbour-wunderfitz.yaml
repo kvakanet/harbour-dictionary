@@ -33,7 +33,7 @@ PkgConfigBR:
 # Runtime dependencies which are not automatically detected
 Requires:
   - sailfishsilica-qt5 >= 0.10.9
-  - libz.so.1
+  - zlib >= 1.2.0
 
 # All installed files
 Files:
