@@ -23,7 +23,7 @@ URL:        http://www.werkwolf.eu/
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-wunderfitz.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
-Requires:   libz.so.1
+Requires:   zlib >= 1.2.0
 BuildRequires:  pkgconfig(sailfishapp) >= 1.0.2
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
